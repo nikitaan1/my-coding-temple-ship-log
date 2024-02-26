@@ -1,1 +1,1 @@
-This is my new navigation methods file which doesn't work
+This is my new navigation methods file
